@@ -5,7 +5,8 @@ Requests: HTTP for Humans
 
 Feature Support
 ---------------
-
+Requests: HTTP for Humans
+=========================
 
 Installation
 ------------
